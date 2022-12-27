@@ -1,3 +1,3 @@
 # poalchTRUNK.github.io
 
-GitHub page for Poalch Tech Archive channel
+Github page for pta's website
